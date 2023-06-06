@@ -3,7 +3,7 @@
 Androiddeveloper from India</h3>
 # 💫 About Me:
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Android Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

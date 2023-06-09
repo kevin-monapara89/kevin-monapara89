@@ -5,7 +5,7 @@ Androiddeveloper from India</h3>
 
 🔭 I’m currently working on Android Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development<br>💬 Ask me about<br>⚡ Fun fact
 
-<img align="right" alt="Coding" width="200" src="https://github.com/kevin-monapara89/kevin-monapara89/assets/120078202/d4f95629-be7a-44a9-91bc-4abe2a601c96">
+<img align="right" alt="Coding" width="300" src="https://github.com/kevin-monapara89/kevin-monapara89/assets/120078202/d4f95629-be7a-44a9-91bc-4abe2a601c96">
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kevin monapara) 

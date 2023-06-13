@@ -8,9 +8,17 @@ Androiddeveloper from India</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/kevin-monapara89/kevin-monapara89/assets/120078202/d4f95629-be7a-44a9-91bc-4abe2a601c96">
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kevin monapara) 
+<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
 
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)(https://stackoverflow.com/users/kevin monapara) 
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+
+</a>
+
+<a href="https://instagram.com/kevin_.monpara?igshid=MzNlNGNkZWQ4Mg==/">
+
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+
+</a>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

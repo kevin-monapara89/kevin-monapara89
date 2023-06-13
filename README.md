@@ -8,7 +8,7 @@ Androiddeveloper from India</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/kevin-monapara89/kevin-monapara89/assets/120078202/d4f95629-be7a-44a9-91bc-4abe2a601c96">
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https">
 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 

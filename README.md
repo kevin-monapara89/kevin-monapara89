@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm kevin monapara</h1>
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Kevin Monapara &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" height="30" alt="made with love  markdown badge" ></a> 
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="35" alt="open source  markdown badge"></a> 
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" height="30" alt="made with swag markdown badge"></a> 
+</div>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,7 +21,7 @@ Androiddeveloper from India</h3>
 
 <img align="right" alt="Coding" width="450" src="https://github.com/kevin-monapara89/kevin-monapara89/assets/120078202/d4f95629-be7a-44a9-91bc-4abe2a601c96">
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://www.linkedin.com/in/kevin-monapara-1478a8274/">
 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>

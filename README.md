@@ -60,4 +60,14 @@ Androiddeveloper from India</h3>
 ---
 [![](https://visitcount.itsvg.in/api?id=kevin-monapara89&icon=6&color=10)](https://visitcount.itsvg.in)
 
+
+
+<p align="center">
+<a href="https://github.com/kevin-monapara89/Task-Management">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-monapara89&repo=Task-Management&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

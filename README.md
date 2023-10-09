@@ -91,8 +91,8 @@ Androiddeveloper from India</h3>
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-monapara89&repo=Notes-App&border_color=73D0FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=eec87a" />
 </a>
 <span> </span>
-<a href="https://github.com/kevin-monapara89/Income-Expence.git">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-monapara89&repo=Income-Expence&border_color=eec87a&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=73D0FF" />
+<a href="https://github.com/kevin-monapara89/NEWS-API">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-monapara89&repo=NEWS_API&border_color=eec87a&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=73D0FF" />
 </a>
 <span> </span>
 </p>

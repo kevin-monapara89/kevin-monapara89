@@ -31,7 +31,6 @@ Androiddeveloper from India</h3>
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 ‎ ‎ 
-‎ 
  <summary align="left">
     <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F948076505660018728.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎ ‎ <h1> Tech Stack:</h1>
   </summary>
@@ -59,6 +58,8 @@ Androiddeveloper from India</h3>
 ![](https://github-readme-stats.vercel.app/api?username=kevin-monapara89&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevin-monapara89&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-monapara89&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevin-monapara89&theme=github_dark)
 
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F985735061200580609.gif%3Fv%3D1&w=64&q=75" width="40px"> <h1> GitHub Trophies : </h1> 
